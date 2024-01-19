@@ -1,0 +1,13 @@
+# Classic Machine Learning Algorithms from Scratch
+- Linear Regression
+- Logistic Regression
+- Decision Tree
+- Perceptron
+- Random Forest
+- KNN
+- KMeans
+- Naive Bayes
+- SVM
+- LDA
+- PCA
+- AdaBoost
